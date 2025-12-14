@@ -25,6 +25,7 @@ Explain why it exists, what problem it solves, or what makes it unique.
 ## Features
 
 - Feature 1  
+  You can add features to your project by editing this file.
 - Feature 2  
 - Feature 3  
 
